@@ -1,4 +1,4 @@
-### Hi there 👋
+![GitHub followers](https://img.shields.io/github/followers/:zernovga)
 
 <!--
 **zernovga/zernovga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
